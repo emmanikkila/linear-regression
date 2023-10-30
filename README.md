@@ -1,6 +1,6 @@
 # Linear Regression - WHO Life Expectancy
 
-[Link to the raport](life_expectancy.ipynb)
+[Link to the Report](life_expectancy.ipynb)
 
 ## Aim of the Analysis
 By using multiple linear regression model, the analysis looks into the relationship between life expectancy and various predicting factors in the dataset. The analysis aims to answer the following key questions:
